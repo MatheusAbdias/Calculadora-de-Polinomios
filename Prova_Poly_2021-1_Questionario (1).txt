@@ -1,0 +1,35 @@
+PROVA - PROGRAMAÇÃO AVANÇADA - 2021.1
+1ª UNIDADE
+
+
+Alun@:Matheus Felipe Ribeiro Abdias/20180032812
+
+A avaliação consiste de 20 (vinte) questões, cujos enunciados encontram-se no arquivo com as questões da prova.
+
+Cada questão pode receber as seguintes notas:
+- 100% se o resultado for matematicamente correto e exibido corretamente (exatamente como abaixo).
+- 50% se o resultado for matematicamente correto mas a exibição não estiver perfeitamente otimizada.
+- 0% se o resultado for matematicamente incorreto.
+
+Assinale a nota em função do resultado da execução do seu programa comparado com a resposta correta (o gabarito encontra-se no arquivo com as questões da prova).
+
+Questão 01:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 02:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 03:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 04:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 05:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 06:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 07:  ( ) 100%   ( ) 50%   (x) 0%
+Questão 08:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 09:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 10:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 11:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 12:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 13:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 14:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 15:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 16:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 17:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 18:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 19:  (x) 100%   ( ) 50%   ( ) 0%
+Questão 20:  (x) 100%   ( ) 50%   ( ) 0%

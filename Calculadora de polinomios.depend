@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1625229584 source:c:\users\matheus\desktop\poly\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"polinomio.h"
+	<cstring>
+
+1625100514 c:\users\matheus\desktop\poly\polinomio.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+
+1625167119 source:c:\users\matheus\desktop\poly\poly-main (1).cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"polinomio.h"
+	<cstring>
+
+1625229584 source:c:\users\matheus\desktop\projetos\poly\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"polinomio.h"
+	<cstring>
+
+1625100514 c:\users\matheus\desktop\projetos\poly\polinomio.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+
+1625167119 source:c:\users\matheus\desktop\projetos\poly\poly-main (1).cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"polinomio.h"
+	<cstring>
+
